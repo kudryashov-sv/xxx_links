@@ -1,0 +1,11 @@
+{application, xxx_links,
+    [
+        {description, "XXX links"},
+        {vsn, "0.0.1"},
+        {registered, []},
+        {applications, [
+            kernel,
+            stdlib
+        ]},
+        {env, []}
+    ]}.
